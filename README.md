@@ -29,11 +29,11 @@
 ## Вывод
 * Когда нет свободного номера:
 Visitor with id 60 couldn't take a room and wait in the queue
-![](telegram-cloud-photo-size-2-5350327875905115536-y.jpg)
+![](5.png)
 
 * Когда есть или появляется:
 Visitor with id 60 has taken room number 20 on 1 days
-![](telegram-cloud-photo-size-2-5350327875905115536-y.jpg)
+![](3.png)
 
 ## Выполнено на 6-7 баллов
 * Соблюдены общие требования к отчету.
