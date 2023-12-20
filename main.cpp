@@ -138,5 +138,5 @@ int main(int argc, char *argv[])
     for (int i = 0; i < count; ++i) {
         pthread_join(hotel_, NULL);
     }
-    std::cout << "\n----The hotel stop----";
+    std::cout << "\n----The hotel close----";
 }
